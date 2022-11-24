@@ -1,0 +1,29 @@
+body{
+    background-color: #E9ECEF;
+}
+.menu{
+    height: 45px;
+    align-items: center;
+}
+.layout{
+
+    text-align: center;
+    list-style-position:inside;
+}
+#h1{
+    padding: 20px 10px 20px 20px;
+    color: #7952b3;
+}
+.img{
+    width: 163px;
+    height: 181px;
+
+}
+.margin{
+    margin-left:250px;
+    align-items: center;
+}
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
